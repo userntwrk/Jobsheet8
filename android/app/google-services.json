@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "722108266925",
+    "project_id": "flutterfirebase-1ceeb",
+    "storage_bucket": "flutterfirebase-1ceeb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:722108266925:android:21df23c8775e64b71dc924",
+        "android_client_info": {
+          "package_name": "com.wahyu.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "722108266925-nr91bkhdl18qg5h1jhopjai013ahrl2k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeBRdDphCLjLm4aWY4Hu3R1a3aonyaweI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "722108266925-nr91bkhdl18qg5h1jhopjai013ahrl2k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
